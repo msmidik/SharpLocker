@@ -9,7 +9,7 @@ SharpLocker helps get current user credentials by popping a fake Windows lock sc
 * Disables shortcuts
 * Checks password validity
 
-![Working SharpLocker](https://github.com/msmidik/SharpLocker/blob/master/docs/screen.png?raw=true)
+![Working SharpLocker](https://github.com/msmidik/SharpLocker/blob/main/docs/screen.png?raw=true)
 
 ## How to
 * Logic mainly in Views/MainWindow.xaml.cs - uncomment to send creadentials as http request of save to file
