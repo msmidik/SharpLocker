@@ -4,6 +4,7 @@ SharpLocker helps get current user credentials by popping a fake Windows lock sc
 
 ## Works
 * Single/Multiple Monitors, different resolutions
+* Custom avatars
 * Windows 10
 * Prevents screensaver
 * Disables shortcuts
